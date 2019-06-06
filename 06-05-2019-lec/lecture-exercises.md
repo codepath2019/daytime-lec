@@ -1,3 +1,9 @@
+## Things to keep in mind
+1. For `What would JS do`, please come up with your answers before hand and then type it into either the JavaScript console or node interpreter in your terminal.
+2. As you go through these exercises, start using google to find resources, tutorials that you can reference later, or even share with your friends who are also learning.
+3. Welcome to JavaScript!
+
+
 ## Intro to computer programs
 **check:** How can computer programs operate on complex data such as images, sound, color, letters, and numbers when all it understands is the binary system `010000011111111`?
 
