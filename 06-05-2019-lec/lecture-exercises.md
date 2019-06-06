@@ -9,7 +9,6 @@
 - What is a type?
 - What is the difference between value and type if any?
 - What is an expression?
-    - An expression is any valid unit of code that resolves to a value.
 - What is an operator?
 - What is an operand?
 - What is the difference between a unary operator and a binary operator?
@@ -43,22 +42,12 @@
 > `typeof true`
 
 **check:** What is a comparison operator? What is it used for?
-- Comparison operators are used in logical statements to determine equality or difference between variables or values.
-
 **check:** What are some ways to produce boolean values?
-- using comparison operators to compare
-    - strings
-    - numbers
 **check:** What is this `==` symbol? How many arguments does it take? What is its output?
 **check:** What is this `===` symbol? How many arguments does it take? What is its output?
 **check:** What is the main difference between `==`, and `===`?
-
 **check:** What does it mean for a value to be truthy or falsy? Give examples of all falsy values.
-
 **check:** What is a logical operator?
-- Logical operators are used to determine the logic between variables or values.
-- Logic is applied to boolean values. So logical operators interact with boolean values, and values that can be converted into boolean values.
-
 **check:** What are the three types of logical operators?
 
 ### What would JS do?
