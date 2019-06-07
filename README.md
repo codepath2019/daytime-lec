@@ -1,1 +1,1 @@
-# daytime-lec
+# Daytime Lecture Exercises and Resources
