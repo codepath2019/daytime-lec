@@ -18,9 +18,7 @@
 
 **check:** How is the following statement evaluated? `let x = 2 + 3`?
 
-**check:** What is a JavaScript environment? What does it contain? What about Scope?
-
-**check:** What is a function? What is a function expression? What's the main difference?
+**check:** What is a function? What is the purpose of a function?
 
 
 
