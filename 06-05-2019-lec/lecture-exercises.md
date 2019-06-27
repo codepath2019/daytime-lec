@@ -48,12 +48,19 @@
 > `typeof true`
 
 **check:** What is a comparison operator? What is it used for?
+
 **check:** What are some ways to produce boolean values?
+
 **check:** What is this `==` symbol? How many arguments does it take? What is its output?
+
 **check:** What is this `===` symbol? How many arguments does it take? What is its output?
+
 **check:** What is the main difference between `==`, and `===`?
+
 **check:** What does it mean for a value to be truthy or falsy? Give examples of all falsy values.
+
 **check:** What is a logical operator?
+
 **check:** What are the three types of logical operators?
 
 ### What would JS do?
@@ -86,7 +93,9 @@
 > !!true
 
 ### Short Circuiting
+
 **check:** What is short circuiting?
+
 **check:** How does short circuiting work with `||`?
 
 ### What would JS do?
